@@ -51,6 +51,8 @@ Bitte keine Fotos machen.<br /><br />
 
 ### Es fehlt die Unterstützung durch die großen Unternehmen
 
+
+
 # Über Smartphones und Tablets
 
 
