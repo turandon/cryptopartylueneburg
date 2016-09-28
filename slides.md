@@ -83,6 +83,7 @@ Bitte keine Fotos machen.<br /><br />
 * Routingmanipulation um <a href="http://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/">DDos Anbieter auszuschalten</a>
 * Youtube und Pakistan Telecom <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Link</a>
 
+
 <img src="img/wolke.png">
 
 
