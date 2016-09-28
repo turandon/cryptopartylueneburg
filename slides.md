@@ -104,22 +104,6 @@ Bitte keine Fotos machen.<br /><br />
 
 <img src="img/KP03.png">
 
-
-<img src="img/KP04.png">
-
-
-<img src="img/KP05.png">
-
-
-<img src="img/KP06.png">
-
-
-<img src="img/KP07.png">
-
-
-<img src="img/KP08.png">
-
-
 <img src="img/KP09.png">
 
 
