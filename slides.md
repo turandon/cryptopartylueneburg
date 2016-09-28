@@ -79,9 +79,10 @@ Bitte keine Fotos machen.<br /><br />
 
 ## Routing
 
-* <a href="http://http://research.dyn.com/2015/03/uk-traffic-diverted-ukraine/">Rputing der "UK Atomic Weapons Establishment" über die Ukraine</a>
+* <a href="http://http://research.dyn.com/2015/03/uk-traffic-diverted-ukraine/">Routing der "UK Atomic Weapons Establishment" über die Ukraine</a>
 * <a href="http://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/">Routingmanipulation um DDoS Anbieter auszuschalten</a>
-* <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Youtube und Pakistan Telecom</a>
+* <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Mexico nach Washington/DC über Weißrussland</a>
+* <a href="https://www.youtube.com/watch?v=IzLPKuAOe50">Youtube und Pakistan Telecom</a>
 
 
 <img src="img/wolke.png">
