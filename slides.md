@@ -36,7 +36,6 @@ Bitte keine Fotos machen.<br /><br />
 
 
 ### Kriterien für Verschlüsselungssoftware
-
 * Vertraulichkeit<br>Nur die Empfänger können die Nachricht lesen
 * Beglaubigung<br>Die Empfänger können sicherstellen, dass die Nachricht wirklich vom Sender kommt
 * Abstreitbarkeit<br>Nach der Konversation ist die Beglaubigung nichtig
@@ -77,6 +76,12 @@ Bitte keine Fotos machen.<br /><br />
 
 <img src="img/internet.png">
 
+
+## Routing
+
+* Routing der <a href="http://http://research.dyn.com/2015/03/uk-traffic-diverted-ukraine/">UK Atomic Weapons Establishment</a>
+* Routingmanipulation um <a href="http://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/">DDos Anbieter auszuschalten</a>
+* Youtube und Pakistan Telecom <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Link</a>
 
 <img src="img/wolke.png">
 
