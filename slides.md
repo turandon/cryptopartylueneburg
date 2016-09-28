@@ -79,9 +79,9 @@ Bitte keine Fotos machen.<br /><br />
 
 ## Routing
 
-* Routing der <a href="http://http://research.dyn.com/2015/03/uk-traffic-diverted-ukraine/">UK Atomic Weapons Establishment</a>
-* Routingmanipulation um <a href="http://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/">DDos Anbieter auszuschalten</a>
-* Youtube und Pakistan Telecom <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Link</a>
+* <a href="http://http://research.dyn.com/2015/03/uk-traffic-diverted-ukraine/">Rputing der "UK Atomic Weapons Establishment" über die Ukraine</a>
+* <a href="http://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/">Routingmanipulation um DDoS Anbieter auszuschalten</a>
+* <a href="http://www.heise.de/security/meldung/Raetselhafte-Entfuehrungen-im-Internet-2053503.html">Youtube und Pakistan Telecom</a>
 
 
 <img src="img/wolke.png">
