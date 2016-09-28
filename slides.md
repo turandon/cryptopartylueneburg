@@ -14,13 +14,13 @@ Bitte keine Fotos machen.<br /><br />
 
 ## Inhalt und Ablauf
 * Einleitung
+* Über Smartphones und Tablets
 * Das Internet
 * Passwörter
 * <b>Mailverschlüsselung</b>
 * <b>Verschlüsselte Container</b>
 * <b>Festplattenverschlüsselung</b>
 * Chatverschlüsselung
-* Über Smartphones und Tablets
 * Fragen und Antworten
 
 
@@ -51,6 +51,19 @@ Bitte keine Fotos machen.<br /><br />
 
 ### Es fehlt die Unterstützung durch die großen Unternehmen
 
+# Über Smartphones und Tablets
+
+
+## Geräte sind unsicher
+
+
+## OTR ist in Ordnung
+
+
+## PGP/GPG würden wir nicht machen
+
+
+## Siehe Links am Ende um sich selbst einzuarbeiten
 
 # Das Internet
 
@@ -491,22 +504,6 @@ Bitte installieren<br>
 * jabber.itpunks.net
 * jabber.chaos.li
 * jabber.gabbler.net
-
-
-
-# Über Smartphones und Tablets
-
-
-## Geräte sind unsicher
-
-
-## OTR ist in Ordnung
-
-
-## PGP/GPG würden wir nicht machen
-
-
-## Siehe Links am Ende um sich selbst einzuarbeiten
 
 
 
