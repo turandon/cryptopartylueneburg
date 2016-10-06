@@ -25,7 +25,7 @@ Bitte keine Fotos machen.<br /><br />
 
 
 
-# Einleitung !
+# Einleitung
 > “Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.” - Oscar Wilde
 
 
